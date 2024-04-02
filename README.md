@@ -53,10 +53,8 @@ Welcome to my GitHub profile! As a seasoned technologist and entrepreneurial lea
 
 ### 🤝 Connect with Me
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourlinkedin/)
-- Twitter: [@YourTwitter](https://twitter.com/YourTwitter)
-- Portfolio: [YourPortfolio.com](https://YourPortfolio.com)
-- Blog: [YourBlog.com](https://YourBlog.com)
+- LinkedIn: [LinkedIn]([https://www.linkedin.com/in/yourlinkedin/](https://www.linkedin.com/in/mahendra-jung-t-a19496119/))
+- Website: [This is me](https://mahendrathapa.com.np)
 
 ---
 
