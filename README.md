@@ -55,8 +55,8 @@ Distinguished for pioneering advanced digital landscapes, I specialize in archit
 
 ### 🤝 Connect and Collaborate
 
-- LinkedIn: [MY LinkedIn](https://www.linkedin.com/in/yourlinkedin/](https://www.linkedin.com/in/mahendra-jung-t-a19496119)
-- Portfolio: [MY Portfolio](https://mahendrathapa.com.np)
+- LinkedIn: [MY LinkedIn](https://www.linkedin.com/in/mahendra-jung-t-a19496119/)
+- Portfolio: [MY Portfolio ](https://mahendrathapa.com.np)
 
 ---
 
